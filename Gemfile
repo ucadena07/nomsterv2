@@ -84,4 +84,4 @@ gem 'figaro'
 
 gem 'carrierwave'
 
-gem 'fog'
+gem 'fog', '~> 2.2'

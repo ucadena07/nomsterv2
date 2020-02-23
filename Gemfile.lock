@@ -470,7 +470,7 @@ DEPENDENCIES
   coffee-rails (~> 4.2)
   devise
   figaro
-  fog
+  fog (~> 2.2)
   font-awesome-rails
   geocoder
   jbuilder (~> 2.5)
